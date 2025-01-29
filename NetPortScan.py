@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+#
+#
+# Written by Prima Agus Setiawan 
+# a.k.a joeheartless 
 from scapy.all import *
 from tqdm import tqdm
 
